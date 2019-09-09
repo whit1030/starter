@@ -1,3 +1,3 @@
-# starter
+# Starter
 First Repository.
-Gitlink [link] (https://whit1030.github.io/starter/)
+Github pages[link](https://whit1030.github.io/starter/)
